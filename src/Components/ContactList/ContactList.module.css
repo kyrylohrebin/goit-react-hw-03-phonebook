@@ -1,0 +1,28 @@
+.list {
+  max-width: 450px;
+  list-style: none;
+  padding-left: 0;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.span {
+  padding-right: 5px;
+}
+
+.button {
+  background-color: transparent;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+  font-weight: 600;
+  color: red;
+}
